@@ -172,7 +172,7 @@ function SelectorItem({
               alt={imageLabel as string | undefined}
             />
           ) : (
-            itemTextValue
+            itemTextValue.match(/\//) ? itemTextValue.split("/")[1] : itemTextValue
           )}
         </div>
       </div>
