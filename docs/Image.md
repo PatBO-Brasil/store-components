@@ -8,11 +8,11 @@ The `image` block renders images in the storefront.
 
 ## Configuration
 
-1. Import the `vtex.store-components` app to your theme dependencies in the `manifest.json` file as in the following example:
+1. Import the `patbo.store-components` app to your theme dependencies in the `manifest.json` file as in the following example:
 
 ```json
   "dependencies": {
-    "vtex.store-components": "3.x"
+    "patbo.store-components": "3.x"
   }
 ```
 

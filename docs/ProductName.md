@@ -8,11 +8,11 @@ The `product-name` block is responsible for displaying a product name along with
 
 ## Configuration
 
-1. Import the `vtex.store-components` app to your theme's dependencies in the `manifest.json` file, as in the following example:
+1. Import the `patbo.store-components` app to your theme's dependencies in the `manifest.json` file, as in the following example:
 
 ```json
   "dependencies": {
-    "vtex.store-components": "3.x"
+    "patbo.store-components": "3.x"
   }
 ```
 

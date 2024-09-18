@@ -39,7 +39,7 @@
     "vtex.styleguide": "9.x"
   },
   "settingsSchema": {
-    "title": "vtex.store-components",
+    "title": "store-components",
     "type": "object",
     "properties": {
       "enableDefaultSeller": {

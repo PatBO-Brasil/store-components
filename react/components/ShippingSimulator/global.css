@@ -1,8 +1,8 @@
-.vtex-store-components-3-x-shippingContainer .vtex-input {
+.patbo-store-components-3-x-shippingContainer .vtex-input {
   height: 100%;
 }
 
-.vtex-store-components-3-x-shippingContainer .vtex-input input {
+.patbo-store-components-3-x-shippingContainer .vtex-input input {
   padding: 10px 5px;
   color: #4f4f4f;
   border: 1px solid #e3e4e6;
@@ -12,7 +12,7 @@
   border-bottom-right-radius: 0;
 }
 
-.vtex-store-components-3-x-shippingContainer .vtex-button {
+.patbo-store-components-3-x-shippingContainer .vtex-button {
   border-radius: 2px;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
